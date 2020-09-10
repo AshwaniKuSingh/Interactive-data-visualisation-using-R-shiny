@@ -18,3 +18,19 @@ Your task in this assignment is to:
 4. Create interactive linking between the map and line chart. When a marker on the map is clicked, the input selection box should be updated to the relevant sensor and the line chart accordingly.
 
 The project has been done as part of the course curriculum. It is a Shiny web app consisting of data visualizations on the dataset europe.csv. The code uses:
+
+
+
+The project has been done as part of the course curriculum. It is a Shiny web app consisting of data visualizations on the dataset europe.csv. The code uses:
+
+1. R
+2. GoogleCharts
+
+The code is not very clean or crisp, but is fully functional. It consists of the following things:
+
+Interactive bubble chart with k means clustering
+World map
+Bar plots based on overall mean
+Interactive grouped bar plots
+2D and 3D Scatter plots which interact between each other unidirectionally
+Interactive Datatable which refreshes with change of slider values
