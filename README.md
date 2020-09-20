@@ -1,6 +1,16 @@
 # Interactive-data-visualisation-using-R-shiny
 
-Your task in this assignment is to:
+The project has been done as part of the course curriculum. It is a Shiny web app consisting of data visualizations on the [Pedestrian counting system](https://github.com/AshwaniKuSingh/Interactive-data-visualisation-using-R-shiny/tree/master/Pedestrian_Counting_System_PE2) datasets. The aforementioned datasets are simplified versions of the two two datasets that can be found publicly:
+* Pedestrian Counting System – Sensor Locations (Exercise 2): This contains the spatial coordinates of pedestrian sensor devices located around the City of Melbourne, retrieved from https://data.melbourne.vic.gov.au/Transport/Pedestrian-Counting-System-Sensor-Locations/h57g-5234
+* Pedestrian Counting System – 2019 (Exercise 2): This contains the hourly pedestrian counts of each sensor during 2019, retrieved from https://data.melbourne.vic.gov.au/Transport/Pedestrian-Counting-System-2009-to-Present-counts-/b2ak-trbp
+
+The code uses following R packages:
+1. Tidyverse
+2. ggplot2
+3. Leaflet
+4. shiny
+
+The requirement of the assignment was to do the following task:
 
 1. Read both datasets into R
 2. Set up your R script to work with Shiny. The UI and Server functions do not have to be in separate files.
@@ -16,21 +26,3 @@ Your task in this assignment is to:
       4. Create a Shiny input selection box that includes an option each sensor.
       5. The line chart should update based on the sensor that is chosen in the input selection box.
 4. Create interactive linking between the map and line chart. When a marker on the map is clicked, the input selection box should be updated to the relevant sensor and the line chart accordingly.
-
-The project has been done as part of the course curriculum. It is a Shiny web app consisting of data visualizations on the dataset europe.csv. The code uses:
-
-
-
-The project has been done as part of the course curriculum. It is a Shiny web app consisting of data visualizations on the dataset europe.csv. The code uses:
-
-1. R
-2. GoogleCharts
-
-The code is not very clean or crisp, but is fully functional. It consists of the following things:
-
-Interactive bubble chart with k means clustering
-World map
-Bar plots based on overall mean
-Interactive grouped bar plots
-2D and 3D Scatter plots which interact between each other unidirectionally
-Interactive Datatable which refreshes with change of slider values
