@@ -25,4 +25,4 @@ The requirement of the assignment was to do the following task:
       3. The line chart should be faceted by day of the week (i.e., Monday, Tuesday, Wednesday, etc.), and should be ordered appropriately.
       4. Create a Shiny input selection box that includes an option each sensor.
       5. The line chart should update based on the sensor that is chosen in the input selection box.
-4. Create interactive linking between the map and line chart. When a marker on the map is clicked, the input selection box should be updated to the relevant sensor and the line chart accordingly.
+4. **Create interactive linking between the map and line chart. When a marker on the map is clicked, the input selection box should be updated to the relevant sensor and the line chart accordingly**
