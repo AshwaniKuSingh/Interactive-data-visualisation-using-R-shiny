@@ -1,6 +1,6 @@
 # Interactive-data-visualisation-using-R-shiny
 
-The project has been done as part of the course curriculum. It is a Shiny web app consisting of data visualizations on the [Pedestrian counting system](https://github.com/AshwaniKuSingh/Interactive-data-visualisation-using-R-shiny/tree/master/Pedestrian_Counting_System_PE2) datasets. The aforementioned datasets are simplified versions of the two two datasets that can be found publicly:
+The project has been done as part of the course curriculum. It is a Shiny web app consisting of data visualizations on the [Pedestrian counting system](https://github.com/AshwaniKuSingh/Interactive-data-visualisation-using-R-shiny/tree/master/Pedestrian_Counting_System_PE2) datasets. The aforementioned datasets are simplified versions of the two datasets that can be found publicly:
 * Pedestrian Counting System – Sensor Locations (Exercise 2): This contains the spatial coordinates of pedestrian sensor devices located around the City of Melbourne, retrieved from https://data.melbourne.vic.gov.au/Transport/Pedestrian-Counting-System-Sensor-Locations/h57g-5234
 * Pedestrian Counting System – 2019 (Exercise 2): This contains the hourly pedestrian counts of each sensor during 2019, retrieved from https://data.melbourne.vic.gov.au/Transport/Pedestrian-Counting-System-2009-to-Present-counts-/b2ak-trbp
 
